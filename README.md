@@ -1,15 +1,7 @@
-#### React Router Fix
+#### Instructions
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+#### CourseList , Details page and Search Box
 
-#### CRA Fix
+Made using React and CSS.
 
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+Thanks
